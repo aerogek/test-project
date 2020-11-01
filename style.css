@@ -4,5 +4,8 @@ section {
 }
 h1 {
   height: 100px;
-  background-color: tomato;
+  width: 50%;
+  background-color: rgb(71, 181, 255);
+  text-align: center;
+  margin: 0 auto;
 }
